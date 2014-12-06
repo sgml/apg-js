@@ -1,0 +1,9 @@
+.*
+*~
+!.gitignore
+cmsg
+**documentation/
+**JsApgWiki/
+README.html
+makedoc
+
